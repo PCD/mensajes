@@ -8,6 +8,7 @@ html.overlay-open .navbar-fixed-top{z-index:400}html.js fieldset.collapsed{heigh
 .multim{
 	text-indent: -999999px;
 	background: url('http://mensajes.multimediosdigitales.info/sites/mensajes.multimediosdigitales.info/files/logom.png') no-repeat;
+	/* Background */
 	background-size: 190px;
 	width: 200px;
 	margin-top: 8px;
